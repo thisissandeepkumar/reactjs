@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Book 1",
+      "description": "First One",
+      "id": 11
+    },
+    {
+      "title": "Test Stream 1",
+      "description": "Stream 1",
+      "userId": "101662418829326019854",
+      "id": 12
+    },
+    {
+      "title": "Second Test Stream",
+      "description": "Stream",
+      "userId": "101662418829326019854",
+      "id": 13
+    }
+  ]
+}
